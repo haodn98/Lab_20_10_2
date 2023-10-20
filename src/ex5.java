@@ -17,7 +17,7 @@ public class ex5 {
             }
             flag++;
         }
-        System.out.println(" maximum = " + max + ", minimum " + min);
+        System.out.println(" maximum = " + max + ", minimum = " + min);
     }
 }
 
